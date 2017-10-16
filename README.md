@@ -8,11 +8,11 @@
 
 
 
-**bio:** 16 years old,junior in hs, tall, _HANDSOME_, polish, canadian, sep student, swimming, volleyball
+**bio:** 16 years old, Junior, Giantic, _JEWISH_, Polish, Canadian, SEP student, swimming, volleyball
 
-**favorite book:** _Game of thrones series_
+**favorite book:** _Harry Polish_, _Percy Jewish_
 
-**favorite tv show:** _flash_ , _game of thrones_
+**Most Hated tv show:** _flash_ , _game of thrones_
 
 ---  
 
@@ -26,3 +26,4 @@
 ##### 6. Gym
 ##### 7. SEP 11
 ##### 8. English 5
+##### 9. 9th Period Gym
