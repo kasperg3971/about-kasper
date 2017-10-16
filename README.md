@@ -8,7 +8,7 @@
 
 
 
-**bio:** 16 years old,junior in hs, tall, _HANDSOME_, polish, canadian, sep student, swimming, volleyball
+**bio:** 16 years old,junior in hs, tall, _Average_, polish, canadian, sep student, swimming, volleyball
 
 **favorite book:** _Game of thrones series_
 
@@ -26,3 +26,4 @@
 ##### 6. Gym
 ##### 7. SEP 11
 ##### 8. English 5
+Reviewed by Hector Marin
